@@ -1,0 +1,1022 @@
+[
+    {
+        "card_name": "Xiaomi 12 12/256GB (пурпурный)",
+        "card_price": "89990₽",
+        "card_discount": "-8 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-12-12-256gb-purpurnyy/"
+    },
+    {
+        "card_name": "Xiaomi 12 Pro 12/256GB (серый)",
+        "card_price": "114990₽",
+        "card_discount": "-20 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-12-pro-12-256gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi 12 Pro 12/256GB (синий)",
+        "card_price": "114990₽",
+        "card_discount": "-20 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-12-pro-12-256gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi 12 Pro 12/256GB (пурпурный)",
+        "card_price": "114990₽",
+        "card_discount": "-20 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-12-pro-12-256gb-purpurnyy/"
+    },
+    {
+        "card_name": "POCO F4 8/256GB (серебристый)",
+        "card_price": "33990₽",
+        "card_discount": "-4 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f4-8-256gb-serebristyy/"
+    },
+    {
+        "card_name": "POCO F4 8/256GB (черный)",
+        "card_price": "33990₽",
+        "card_discount": "-4 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f4-8-256gb-chernyy/"
+    },
+    {
+        "card_name": "POCO F4 8/256GB (зеленый)",
+        "card_price": "33990₽",
+        "card_discount": "-4 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f4-8-256gb-zelenyy/"
+    },
+    {
+        "card_name": "Xiaomi 12X 8/128GB (синий)",
+        "card_price": "64990₽",
+        "card_discount": "-4 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/12x-8-128gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 10C 4/64GB (синий)",
+        "card_price": "14990₽",
+        "card_discount": "-2 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-10c-4-64gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 10C 4/64GB (зеленый)",
+        "card_price": "14990₽",
+        "card_discount": "-2 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-10c-4-64gb-zelenyy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 10C 4/128GB (синий)",
+        "card_price": "16490₽",
+        "card_discount": "-1 500 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-10c-4-128gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 10C 4/128GB (зеленый)",
+        "card_price": "16490₽",
+        "card_discount": "-1 500 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-10c-4-128gb-zelenyy/"
+    },
+    {
+        "card_name": "POCO F3 6/128GB (черный)",
+        "card_price": "29990₽",
+        "card_discount": "-5 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f3-6-128gb-black/"
+    },
+    {
+        "card_name": "Xiaomi 12 Lite 8/128GB (зеленый)",
+        "card_price": "40990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-12-lite-8-128gb-zelenyy/"
+    },
+    {
+        "card_name": "Xiaomi 12 Lite 8/128GB (розовый)",
+        "card_price": "40990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-12-lite-8-128gb-rozovyy/"
+    },
+    {
+        "card_name": "Xiaomi 12 Lite 8/128GB (черный)",
+        "card_price": "40990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-12-lite-8-128gb-chernyy/"
+    },
+    {
+        "card_name": "Xiaomi 12 12/256GB (синий)",
+        "card_price": "89990₽",
+        "card_discount": "-8 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-12-12-256gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi 12 12/256GB (серый)",
+        "card_price": "89990₽",
+        "card_discount": "-8 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-12-12-256gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9A 2/32GB (серый)",
+        "card_price": "7990₽",
+        "card_discount": "-500 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9a-2-32gb-grey/"
+    },
+    {
+        "card_name": "POCO F3 6/128GB (серебристый)",
+        "card_price": "29990₽",
+        "card_discount": "-5 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/f3-6-128gb-serebristyy/"
+    },
+    {
+        "card_name": "Xiaomi 11T 8/128GB (синий)",
+        "card_price": "39990₽",
+        "card_discount": "-5 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-t-8-128-gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9A 2/32GB (голубой)",
+        "card_price": "7990₽",
+        "card_discount": "-500 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-9a-2-32gb-goluboy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11 4/64GB (синий)",
+        "card_price": "18990₽",
+        "card_discount": "-2 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-11-4-64gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11 4/64GB (серый)",
+        "card_price": "18990₽",
+        "card_discount": "-2 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-11-4-64gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9C NFC 2/32GB (серый)",
+        "card_price": "8990₽",
+        "card_discount": "-2 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9c-2-32gb-grey/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9C NFC 4/128GB (оранжевый)",
+        "card_price": "11990₽",
+        "card_discount": "-2 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9c-nfc-4-128gb-oranzhevyy/"
+    },
+    {
+        "card_name": "Xiaomi 12X 8/128GB (серый)",
+        "card_price": "64990₽",
+        "card_discount": "-4 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-12x-8-128gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 10C 4/128GB (серый)",
+        "card_price": "16490₽",
+        "card_discount": "-1 500 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-10c-4-128gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11 4/128GB (голубой)",
+        "card_price": "19990₽",
+        "card_discount": "-2 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-11-4-128gb-goluboy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11 4/128GB (синий)",
+        "card_price": "19990₽",
+        "card_discount": "-2 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-11-4-128gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11 4/128GB (серый)",
+        "card_price": "19990₽",
+        "card_discount": "-2 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-11-4-128gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 10 4/64GB (белый)",
+        "card_price": "16990₽",
+        "card_discount": "-4 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-10-4-64gb-belyy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 10 4/64GB (синий)",
+        "card_price": "16990₽",
+        "card_discount": "-4 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-10-4-64gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 10 4/128GB (серый)",
+        "card_price": "17990₽",
+        "card_discount": "-5 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-10-4-128gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 10 4/128GB (белый)",
+        "card_price": "17990₽",
+        "card_discount": "-5 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-10-4-128gb-belyy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11S 6/64GB (синий)",
+        "card_price": "24990₽",
+        "card_discount": "-1 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-11s-6-64gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11S 6/64GB (серый)",
+        "card_price": "24990₽",
+        "card_discount": "-1 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-11s-6-64gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11 Pro 8/128GB (синий)",
+        "card_price": "31990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-11-pro-8-128gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11 Pro 8/128GB (серый)",
+        "card_price": "31990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-11-pro-8-128gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11 Pro 8/128GB (белый)",
+        "card_price": "31990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-11-pro-8-128-gb-belyy/"
+    },
+    {
+        "card_name": "POCO F3 6/128GB (белый)",
+        "card_price": "29990₽",
+        "card_discount": "-5 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f3-6-128gb-white/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9A 2/32GB (синий)",
+        "card_price": "7990₽",
+        "card_discount": "-500 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9a-2-32gb-blue/"
+    },
+    {
+        "card_name": "POCO X4 Pro 5G 6/128GB (черный)",
+        "card_price": "29990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-x4-pro-5g-6-128gb-chernyy/"
+    },
+    {
+        "card_name": "POCO F3 6/128GB (синий)",
+        "card_price": "29990₽",
+        "card_discount": "-5 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f3-6-128gb-blue/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9C NFC 3/64GB (серый)",
+        "card_price": "10490₽",
+        "card_discount": "-1 500 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9c-3-64gb-grey/"
+    },
+    {
+        "card_name": "Xiaomi 11 Lite 5G NE 8/256GB (черный)",
+        "card_price": "33990₽",
+        "card_discount": "-6 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-lite-ne-5g-8-256gb-chernyy/"
+    },
+    {
+        "card_name": "Xiaomi 11 Lite 5G NE 8/256GB (синий)",
+        "card_price": "33990₽",
+        "card_discount": "-6 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-lite-ne-5g-8-256gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi 11 Lite 5G NE 8/128GB (синий)",
+        "card_price": "29990₽",
+        "card_discount": "-5 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-lite-ne-5g-8-128gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi 11 Lite 5G NE 8/128GB (черный)",
+        "card_price": "29990₽",
+        "card_discount": "-5 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-lite-ne-5g-8-128gb-chernyy/"
+    },
+    {
+        "card_name": "Xiaomi 11 Lite 5G NE 8/128GB (зеленый)",
+        "card_price": "29990₽",
+        "card_discount": "-5 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-lite-5g-ne-8-128gb-zelenyy/"
+    },
+    {
+        "card_name": "POCO M4 Pro 5G 4/64GB (желтый)",
+        "card_price": "17990₽",
+        "card_discount": "-3 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/m4-pro-5g-4-64gb-zheltyy/"
+    },
+    {
+        "card_name": "POCO M4 Pro 5G 4/64GB (синий)",
+        "card_price": "17990₽",
+        "card_discount": "-3 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/m4-pro-5g-4-64gb-siniy/"
+    },
+    {
+        "card_name": "POCO M4 Pro 5G 4/64GB (серый)",
+        "card_price": "17990₽",
+        "card_discount": "-3 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/m4-pro-5g-4-64gb-seryy/"
+    },
+    {
+        "card_name": "POCO M4 Pro 6/128GB (черный)",
+        "card_price": "22990₽",
+        "card_discount": "-6 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m4-pro-6-128gb-chernyy/"
+    },
+    {
+        "card_name": "POCO M4 Pro 8/256GB (синий)",
+        "card_price": "25990₽",
+        "card_discount": "-6 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m4-pro-8-256gb-siniy/"
+    },
+    {
+        "card_name": "POCO M4 Pro 8/256GB (черный)",
+        "card_price": "25990₽",
+        "card_discount": "-6 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m4-pro-8-256gb-chernyy/"
+    },
+    {
+        "card_name": "Xiaomi 11T 8/128GB (серый)",
+        "card_price": "39990₽",
+        "card_discount": "-5 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11t-8-128gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi 11T 8/256GB (белый)",
+        "card_price": "43990₽",
+        "card_discount": "-6 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-t-8-256-gb-belyy/"
+    },
+    {
+        "card_name": "Xiaomi 11T 8/256GB (синий)",
+        "card_price": "43990₽",
+        "card_discount": "-6 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-t-8-256-gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi 11T 8/256GB (серый)",
+        "card_price": "43990₽",
+        "card_discount": "-6 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11t-8-256gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9A 2/32GB (зеленый)",
+        "card_price": "7990₽",
+        "card_discount": "-500 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9a-2-32gb-green/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9A 2/32GB (бирюзовый)",
+        "card_price": "7990₽",
+        "card_discount": "-500 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-9a-2-32gb-biruzovyy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11 4/64GB (голубой)",
+        "card_price": "18990₽",
+        "card_discount": "-2 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-11-4-64gb-goluboy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 10S 6/64GB (синий)",
+        "card_price": "17990₽",
+        "card_discount": "-4 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-10s-6-64gb-blue/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9C NFC 4/128GB (серый)",
+        "card_price": "11990₽",
+        "card_discount": "-2 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9c-nfc-4-128gb-seryy/"
+    },
+    {
+        "card_name": "POCO X4 Pro 5G 8/256GB (черный)",
+        "card_price": "32990₽",
+        "card_discount": "-2 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-x4-pro-5g-8-256gb-chernyy/"
+    },
+    {
+        "card_name": "Xiaomi 11T Pro 8/128GB (синий)",
+        "card_price": "47990₽",
+        "card_discount": "-7 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11t-pro-8-128-gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 10S 6/64GB (белый)",
+        "card_price": "17990₽",
+        "card_discount": "-4 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-10s-6-64gb-white/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 10S 6/128GB (синий)",
+        "card_price": "19990₽",
+        "card_discount": "-4 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-10s-6-128gb-blue/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 10 Pro 8/128GB (синий)",
+        "card_price": "24990₽",
+        "card_discount": "-4 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-note-10-pro-6-128gb-blue/"
+    },
+    {
+        "card_name": "POCO M3 Pro 4/64GB (черный)",
+        "card_price": "17990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m3-pro-4-64gb-black/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 10S 6/64GB (серый)",
+        "card_price": "17990₽",
+        "card_discount": "-4 000 ₽",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-10s-6-64gb-grey/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11 Pro 5G 8/128GB (серый)",
+        "card_price": "33990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-note-11pro-5g-8-128gb-seryy/"
+    },
+    {
+        "card_name": "POCO F4 GT 8/128GB (черный)",
+        "card_price": "55990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f4-gt-8-128gb-chernyy/"
+    },
+    {
+        "card_name": "POCO F4 GT 8/128GB (серебристый)",
+        "card_price": "55990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f4-gt-8-128gb-serebristyy/"
+    },
+    {
+        "card_name": "POCO F4 GT 8/128GB (желтый)",
+        "card_price": "55990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f4-gt-8-128gb-zheltyy/"
+    },
+    {
+        "card_name": "POCO F4 GT 12/256GB (черный)",
+        "card_price": "62990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f4-gt-12-256gb-chernyy/"
+    },
+    {
+        "card_name": "POCO F4 GT 12/256GB (серебристый)",
+        "card_price": "62990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f4-gt-12-256gb-serebristyy/"
+    },
+    {
+        "card_name": "POCO F4 GT 12/256GB (желтый)",
+        "card_price": "62990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f4-gt-12-256gb-zheltyy/"
+    },
+    {
+        "card_name": "POCO F4 6/128GB (серебристый)",
+        "card_price": "30990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f4-6-128gb-serebristyy/"
+    },
+    {
+        "card_name": "POCO F4 6/128GB (черный)",
+        "card_price": "30990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f4-6-128gb-chernyy/"
+    },
+    {
+        "card_name": "POCO F4 6/128GB (зеленый)",
+        "card_price": "30990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f4-6-128gb-zelenyy/"
+    },
+    {
+        "card_name": "Xiaomi 12X 8/256GB (серый)",
+        "card_price": "69990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-12x-8-256gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi 12X 8/256GB (синий)",
+        "card_price": "69990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/12x-8-256gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 10C 4/64GB (серый)",
+        "card_price": "14990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-10c-4-64gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 10 4/64GB (серый)",
+        "card_price": "16990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-10-4-64gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 10 4/128GB (синий)",
+        "card_price": "17990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-10-4-128gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 10S 6/128GB (белый)",
+        "card_price": "19990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-10s-6-128gb-white/"
+    },
+    {
+        "card_name": "POCO X3 Pro 8/256GB (синий)",
+        "card_price": "46990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-x3-pro-8-256gb-blue/"
+    },
+    {
+        "card_name": "POCO X3 Pro 8/256GB (черный)",
+        "card_price": "46990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-x3-pro-8-256gb-black/"
+    },
+    {
+        "card_name": "POCO X3 Pro 6/128GB (синий)",
+        "card_price": "23990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-x3-pro-6-128gb-blue/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 10S 6/128GB (серый)",
+        "card_price": "19990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-10s-6-128gb-grey/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 10S 6/128GB (фиолетовый)",
+        "card_price": "19990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-10s-6-128gb-purple/"
+    },
+    {
+        "card_name": "Xiaomi 11 Lite 5G NE 8/256GB (белый)",
+        "card_price": "33990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-lite-ne-5g-8-256gb-belyy/"
+    },
+    {
+        "card_name": "Xiaomi 11 Lite 5G NE 8/256GB (розовый)",
+        "card_price": "33990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-lite-ne-5g-8-256gb-rozovyy/"
+    },
+    {
+        "card_name": "Xiaomi 11 Lite 5G NE 8/128GB (розовый)",
+        "card_price": "29990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-lite-ne-5g-8-128gb-rozovyy/"
+    },
+    {
+        "card_name": "Xiaomi 11 Lite 5G NE 6/128GB (черный)",
+        "card_price": "31990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-lite-ne-5g-6-128gb-chernyy/"
+    },
+    {
+        "card_name": "Xiaomi 11 Lite 5G NE 6/128GB (розовый)",
+        "card_price": "31990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-lite-ne-5g-6-128gb-rozovyy/"
+    },
+    {
+        "card_name": "Xiaomi 11 Lite 5G NE 6/128GB (синий)",
+        "card_price": "31990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-lite-ne-5g-6-128gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi 11 Lite 5G NE 6/128GB (белый)",
+        "card_price": "31990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-lite-ne-5g-6-128gb-belyy/"
+    },
+    {
+        "card_name": "Xiaomi 11 Lite 5G NE 8/128GB (белый)",
+        "card_price": "29990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-lite-ne-5g-8-128gb-belyy/"
+    },
+    {
+        "card_name": "Xiaomi 11 Lite 5G NE 8/256GB (зеленый)",
+        "card_price": "33990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-lite-5g-ne-8-256gb-zelenyy/"
+    },
+    {
+        "card_name": "POCO M4 Pro 5G 6/128GB (желтый)",
+        "card_price": "19990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/m4-pro-5g-4-128gb-zheltyy/"
+    },
+    {
+        "card_name": "POCO M4 Pro 5G 6/128GB (серый)",
+        "card_price": "19990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/m4-pro-5g-6-128gb-seryy/"
+    },
+    {
+        "card_name": "POCO M4 Pro 5G 6/128GB (синий)",
+        "card_price": "19990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/m4-pro-5g-6-128gb-siniy/"
+    },
+    {
+        "card_name": "POCO M4 Pro 6/128GB (желтый)",
+        "card_price": "22990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m4-pro-6-128gb-zheltyy/"
+    },
+    {
+        "card_name": "POCO M4 Pro 6/128GB (синий)",
+        "card_price": "22990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/m4-pro-6-128gb-siniy/"
+    },
+    {
+        "card_name": "POCO M4 Pro 8/256GB (желтый)",
+        "card_price": "25990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m4-pro-8-256gb-zheltyy/"
+    },
+    {
+        "card_name": "Xiaomi 11T 8/128GB (белый)",
+        "card_price": "39990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11-t-8-128-gb-belyy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 10 Pro 8/128GB (бронзовый)",
+        "card_price": "24990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-note-10-pro-6-128gb-bronze/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9C NFC 3/64GB (синий)",
+        "card_price": "10490₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9c-3-64gb-blue/"
+    },
+    {
+        "card_name": "POCO F3 8/256GB (белый)",
+        "card_price": "39990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f3-8-256gb-white/"
+    },
+    {
+        "card_name": "POCO F3 8/256GB (синий)",
+        "card_price": "42990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f3-8-256gb-blue/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9C NFC 2/32GB (синий)",
+        "card_price": "8990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9c-2-32gb-blue/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9C NFC 4/128GB (синий)",
+        "card_price": "11990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9c-nfc-4-128gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9C NFC 4/128GB (зеленый)",
+        "card_price": "11990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9c-nfc-4-128gb-zelenyy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9C NFC 4/128GB (фиолетовый)",
+        "card_price": "11990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9c-nfc-4-128gb-fioletovyy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9T 4/64GB (синий)",
+        "card_price": "16990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9t-4-64gb-blue/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9T 4/128GB (зеленый)",
+        "card_price": "16990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9t-4-128gb-green/"
+    },
+    {
+        "card_name": "POCO X3 Pro 8/256GB (бронзовый)",
+        "card_price": "46990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-x3-pro-8-256gb-bronze/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 8 (2021) 4/64GB (белый)",
+        "card_price": "15990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-8-2021-4-64gb-white/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 8 2021 4/64GB (черный)",
+        "card_price": "15990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-8-2021-4-64gb-black/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9T 4/64GB (серый)",
+        "card_price": "14990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9t-4-64gb-gray/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9T 4/128GB (серый)",
+        "card_price": "16990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9t-4-128gb-gray/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9T 4/64GB (зеленый)",
+        "card_price": "16990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9t-4-64gb-green/"
+    },
+    {
+        "card_name": "POCO X4 Pro 5G 8/256GB (желтый)",
+        "card_price": "32990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-x4-pro-5g-8-256gb-zheltyy/"
+    },
+    {
+        "card_name": "POCO X4 Pro 5G 8/256GB (синий)",
+        "card_price": "32990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-x4-pro-5g-8-256gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi 11T Pro 8/128GB (серый)",
+        "card_price": "47990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11t-pro-8-128gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi 11T Pro 8/128GB (белый)",
+        "card_price": "47990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11t-pro-8-128-gb-belyy/"
+    },
+    {
+        "card_name": "Xiaomi 11T Pro 12/256GB (белый)",
+        "card_price": "53990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11t-pro-12-256-gb-belyy/"
+    },
+    {
+        "card_name": "Xiaomi 11T Pro 12/256GB (синий)",
+        "card_price": "53990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11t-pro-12-256-gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi 11T Pro 12/256GB (серый)",
+        "card_price": "53990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/11t-pro-12-256gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 10 Pro 8/128GB (серый)",
+        "card_price": "24990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-note-10-pro-6-128gb-grey/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 8 2021 4/128GB (синий)",
+        "card_price": "17990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-8-2021-4-128gb-blue/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9C NFC 2/32GB (оранжевый)",
+        "card_price": "8990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9c-2-32gb-orange/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9C NFC 3/64GB (оранжевый)",
+        "card_price": "10490₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9c-3-64gb-orange/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9T 4/64GB (оранжевый)",
+        "card_price": "16990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9t-4-64gb-orange/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9T 4/128GB (оранжевый)",
+        "card_price": "16990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9t-4-128gb-orange/"
+    },
+    {
+        "card_name": "POCO X3 Pro 6/128GB (бронзовый)",
+        "card_price": "23990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-x3-pro-6-128gb-bronze/"
+    },
+    {
+        "card_name": "POCO X3 Pro 6/128GB (черный)",
+        "card_price": "23990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-x3-pro-6-128gb-black/"
+    },
+    {
+        "card_name": "POCO M3 4/64GB (черный)",
+        "card_price": "12990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m3-4-64gb-black/"
+    },
+    {
+        "card_name": "POCO M3 4/64GB (синий)",
+        "card_price": "14990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m3-4-64gb-blue/"
+    },
+    {
+        "card_name": "POCO M3 Pro 4/64GB (синий)",
+        "card_price": "17990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m3-pro-4-64gb-blue/"
+    },
+    {
+        "card_name": "Xiaomi Redmi 9T 4/128GB (синий)",
+        "card_price": "16990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-9t-4-128gb-blue/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11S 6/64GB (белый)",
+        "card_price": "24990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-11s-6-64gb-belyy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11S 6/128GB (белый)",
+        "card_price": "26990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-11s-6-128gb-belyy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11S 6/128GB (синий)",
+        "card_price": "26990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-11s-6-128gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11S 6/128GB (серый)",
+        "card_price": "26990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-11s-6-128gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11 Pro 5G 6/64GB (белый)",
+        "card_price": "31990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-note-11pro-5g-6-64gb-belyy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11 Pro 5G 6/64GB (синий)",
+        "card_price": "31990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-note-11pro-5g-6-64gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11 Pro 5G 6/64GB (серый)",
+        "card_price": "31990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-note-11pro-5g-6-64gb-seryy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11 Pro 5G 8/128GB (синий)",
+        "card_price": "33990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-note-11pro-5g-8-128gb-siniy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 11 Pro 5G 8/128GB (белый)",
+        "card_price": "33990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/xiaomi-redmi-note-11pro-5g-8-128gb-belyy/"
+    },
+    {
+        "card_name": "POCO M3 Pro 4/64GB (желтый)",
+        "card_price": "19990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m3-pro-4-64gb-yellow/"
+    },
+    {
+        "card_name": "POCO M3 Pro 6/128GB (синий)",
+        "card_price": "19990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m3-pro-6-128gb-blue/"
+    },
+    {
+        "card_name": "POCO M3 Pro 6/128GB (желтый)",
+        "card_price": "19990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m3-pro-6-128gb-yellow/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 8 2021 4/128GB (белый)",
+        "card_price": "17990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-8-2021-4-128gb-white/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 8 2021 4/64GB (синий)",
+        "card_price": "15990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-8-2021-4-64gb-blue/"
+    },
+    {
+        "card_name": "POCO M3 4/128GB (черный)",
+        "card_price": "16990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m3-4-128gb-black/"
+    },
+    {
+        "card_name": "POCO M3 4/128GB (синий)",
+        "card_price": "16990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m3-4-128gb-blue/"
+    },
+    {
+        "card_name": "POCO M3 4/64GB (желтый)",
+        "card_price": "14990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m3-4-64gb-yellow/"
+    },
+    {
+        "card_name": "POCO M3 4/128GB (желтый)",
+        "card_price": "16990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m3-4-128gb-yellow/"
+    },
+    {
+        "card_name": "POCO M3 Pro 6/128GB (черный)",
+        "card_price": "19990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-m3-pro-6-128gb-black/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 8 2021 4/128GB (черный)",
+        "card_price": "17990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-8-2021-4-128gb-black/"
+    },
+    {
+        "card_name": "POCO X4 Pro 5G 6/128GB (синий)",
+        "card_price": "29990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-x4-pro-5g-6-128gb-siniy/"
+    },
+    {
+        "card_name": "POCO X4 Pro 5G 6/128GB (желтый)",
+        "card_price": "29990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-x4-pro-5g-6-128gb-zheltyy/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 9T 4/64GB (черный)",
+        "card_price": "20490₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-9t-4-64gb-black/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 9T 4/128GB (черный)",
+        "card_price": "21990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-9t-4-128gb-black/"
+    },
+    {
+        "card_name": "Xiaomi Redmi Note 9T 4/128GB (фиолетовый)",
+        "card_price": "21990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/redmi-note-9t-4-128gb-violet/"
+    },
+    {
+        "card_name": "POCO F3 8/256GB (черный)",
+        "card_price": "42990₽",
+        "card_discount": "No data discount",
+        "link_on_card": "https://mi-shop.com/ru/catalog/smartphones/poco-f3-8-256gb-black/"
+    }
+]
